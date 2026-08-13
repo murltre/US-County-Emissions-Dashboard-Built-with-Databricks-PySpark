@@ -1,4 +1,13 @@
-# US County-Level Emissions Dashboard
+
+# US County Emissions Dashboard — Built with Databricks & PySpark
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
+
+*An end-to-end pipeline (ingestion → Spark transformations → SQL analysis → dashboard) across 3,142 US counties*
+
 
 A Databricks end-to-end project exploring greenhouse gas emissions across ~3,142 US counties — from raw data to an interactive, cross-filterable dashboard.
 
