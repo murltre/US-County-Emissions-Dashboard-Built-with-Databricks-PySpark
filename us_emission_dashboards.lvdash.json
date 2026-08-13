@@ -166,7 +166,7 @@
   "pages": [
     {
       "name": "6fe8329a",
-      "displayName": "Emission_Insights1",
+      "displayName": "Emission_Insights_1",
       "layout": [
         {
           "widget": {
@@ -675,7 +675,7 @@
     },
     {
       "name": "6cf71985",
-      "displayName": "Emissions_insights2",
+      "displayName": "Emission_Insights_2",
       "layout": [
         {
           "widget": {
@@ -1037,7 +1037,8 @@
               "frame": {
                 "showTitle": true,
                 "title": "Total emission per county",
-                "headerAlignment": "center"
+                "headerAlignment": "center",
+                "showDescription": false
               },
               "widgetType": "bar",
               "encodings": {
